@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-void main()
+int main()
 {
    
     float p_amt, rate, SI;
